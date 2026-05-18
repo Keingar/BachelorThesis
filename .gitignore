@@ -74,8 +74,6 @@ Platforms/
 
 
 Content/StarterContent/*
-Plugins/*
-
 
 # Ignore user-specific files
 .vscode/
